@@ -26,6 +26,8 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem "font-awesome-rails"
 # Simpleform
 gem 'simple_form'
+#Devise
+gem 'devise'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
